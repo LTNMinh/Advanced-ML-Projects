@@ -1,4 +1,4 @@
-# Word2Vec-Topic-Modeling-Foody-dataset
+# Unsupervised-Topic-Modeling-And-Sentimental-Analysis-Foody-dataset
 
 Advanced Machine Learning Final Project of JVN Students.  
 
